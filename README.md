@@ -3,7 +3,7 @@
 # Igor Santos (`@DevIgorSantos`)
 ### Full-Stack Software Engineer · E-Commerce Architect · SaaS & Technical SEO / GEO Specialist
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devigor.com.br-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://igor-santos-digital-hub.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devigor.com.br-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://www.devigor.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-santos-177590254)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+55_62_99509--7646-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562995097646)
 [![Email](https://img.shields.io/badge/Email-contato@devigor.com.br-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@devigor.com.br)
@@ -60,6 +60,7 @@ Sou **Engenheiro de Software Full-Stack** focado em **E-commerce de Alta Convers
 - **SaaS & Integrações Oficiais:** Arquitetura segura (*Defense-in-Depth*, PostgreSQL RLS, JWT, Rate Limiting) integrada às APIs oficiais da Meta (WhatsApp Cloud API), iFood, 99Food, Stripe e OpenAI.
 
 📫 **Vamos conversar sobre o seu projeto?**
-- **Portfólio Completo:** [igor-santos-digital-hub.vercel.app](https://igor-santos-digital-hub.vercel.app)
+- **Portfólio Completo:** [igor-santos-digital-hub.vercel.app](https://www.devigor.com.br)
 - **WhatsApp Direto:** [+55 (62) 99509-7646](https://wa.me/5562995097646)
 - **E-mail:** [contato@devigor.com.br](mailto:contato@devigor.com.br)
+
